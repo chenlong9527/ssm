@@ -11,10 +11,10 @@
     <title></title>
 </head>
 <body>
-                                          你潮吗 你
+                                          你傻吗 你
 
 
 
-你个大潮比
+你个大傻比
 </body>
 </html>
